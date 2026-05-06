@@ -35,11 +35,11 @@ This project focuses on analyzing employee data to uncover insights related to w
 - Auditing department shows the highest termination rate
   
 
-🖼 Dashboard Preview
+## 🖼 Dashboard Preview
 
-"Dashboard Overview" (dashboard1.png)
+![Dashboard](dashboard/dashboard1.png)
 
-"Dashboard Insights" (dashboard2.png)
+![Insights](dashboard/dashboard2.png)
 
 
 📄 Full Dashboard
