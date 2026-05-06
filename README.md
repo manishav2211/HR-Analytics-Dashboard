@@ -43,6 +43,11 @@ This project focuses on analyzing employee data to uncover insights related to w
 
 📄 Dashboard
 
+![Dashboard Overview](dashboard1.png)
+
+![Dashboard Insights](dashboard2.png)
+
+
 Click below to view the complete dashboard:
 [View Dashboard](HR_Dashboard.pdf)
 
