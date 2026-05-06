@@ -1,16 +1,19 @@
 HR Analytics Dashboard
 
 📊 Project Overview
+
 This project focuses on analyzing employee data to uncover insights related to workforce distribution, employee demographics, and termination trends using Excel, SQL, and Power BI.
 
+---
 
 🔄 Workflow
 
 - Data collected and prepared in Excel
 - Data cleaning and analysis performed using SQL
 - Processed data exported as CSV
-- Interactive dashboard created using Power BI
+- Dashboard created using Power BI
 
+---
 
 🛠 Tools & Technologies
 
@@ -18,6 +21,7 @@ This project focuses on analyzing employee data to uncover insights related to w
 - SQL (MySQL Workbench)
 - Power BI
 
+---
 
 📁 Project Files
 
@@ -26,6 +30,7 @@ This project focuses on analyzing employee data to uncover insights related to w
 - HR_Data_Questions.sql → analysis queries
 - HR_Dashboard.pdf → final dashboard
 
+---
 
 📌 Key Insights
 
@@ -33,19 +38,15 @@ This project focuses on analyzing employee data to uncover insights related to w
 - Male employees slightly outnumber female employees
 - Engineering department has the highest workforce
 - Auditing department shows the highest termination rate
-  
 
-## 🖼 Dashboard Preview
+---
 
-![Dashboard](dashboard/dashboard1.png)
+📄 Dashboard
 
-![Insights](dashboard/dashboard2.png)
+Click below to view the complete dashboard:
+[View Dashboard](HR dashboard.pdf)
 
-
-📄 Full Dashboard
-
-"View Full Dashboard" (HR_Dashboard.pdf)
-
+---
 
 💡 Skills Demonstrated
 
@@ -54,6 +55,8 @@ This project focuses on analyzing employee data to uncover insights related to w
 - Data Visualization
 - Business Insight Generation
 
+---
 
 👩‍💻 Author
+
 Manisha
